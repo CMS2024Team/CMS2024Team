@@ -84,7 +84,9 @@ We have given two options to choose from. These options are:
 This will be located in the same directory as your wp-includes or wp-admin folder. Open the .htaccess file and paste the following lines of code at the very top:
 
 #Options +FollowSymLinks
+
 RewriteEngine on
+
 Unchanged: RewriteRule ^(.*)$ http://www."your_domain".com/$1 [R=301,L]
 
 Hurray!!!! You are good to Go. 
