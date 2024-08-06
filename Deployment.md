@@ -115,8 +115,11 @@ Hurray!!!! You are good to Go.
 ### Testing Responsibilities:
 
 - **Theme Developer & Tester:** Paul Kemboi
-- **Web Pages & Content Tester:** 
-- **Site Map Tester:** 
+  
+- **Web Pages & Content Tester:**
+  
+- **Site Map Tester:**
+  
 -** Plugins, Github Master and Documentation **: Timothy Kipkosgei
 
 ---
