@@ -113,7 +113,7 @@ Hurray!!!! You are good to Go.
 ### Design Responsibilities:
 
 
-- **Site Map:** Jashan
+- **Site Map:** Paul
 
 ### Testing Responsibilities:
 
