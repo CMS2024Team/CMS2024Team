@@ -29,9 +29,7 @@ To get started with the project, please refer to the detailed documentation:
         
 **─ /wp-includes ** - Core WordPress files and libraries
 
-- wp-admin: Contains files for the WordPress admin dashboard.
-- wp-content: Where user-specific content is stored, including themes and plugins.
-- wp-includes: Contains core WordPress functions and classes.
+
 
 ## Technologies Used
 
