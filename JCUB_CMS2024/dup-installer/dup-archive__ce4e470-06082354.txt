@@ -1,0 +1,754 @@
+{
+    "dup_type": "lite",
+    "created": "2024-08-06 08:23:54",
+    "version_dup": "1.5.10.2",
+    "version_wp": "6.6.1",
+    "version_db": "5.7.44",
+    "version_php": "8.1.29",
+    "version_os": "Linux",
+    "blogname": "JCU Brisbane Student Board",
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$MZBh.Tr..yS28xja26\/xJu76SSr9ZSMmO.vMbx.iLQOEFmFDP6NWS",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "dft_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "jcu-student-board.cloudaccess.host",
+            "path": "\/",
+            "blogname": "JCU Brisbane Student Board",
+            "blog_prefix": "dft_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "2",
+                    "user_login": "bnivqmkj-ca",
+                    "id": "2"
+                },
+                {
+                    "ID": "1",
+                    "user_login": "cms.class.jcu24",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/jcu-student-board.cloudaccess.host",
+            "fullSiteUrl": "https:\/\/jcu-student-board.cloudaccess.host",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content\/uploads",
+            "fullUploadSafePath": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/jcu-student-board.cloudaccess.host\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "MYSQLDUMP",
+        "charSetList": [
+            "utf8mb4",
+            "utf8"
+        ],
+        "collationList": [
+            "utf8_general_ci",
+            "utf8mb4_unicode_520_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "bnivqmkj",
+        "tablesBaseCount": 29,
+        "tablesFinalCount": 29,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 1600,
+        "tablesSizeOnDisk": 17006592,
+        "tablesList": {
+            "dft_actionscheduler_actions": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 131072
+            },
+            "dft_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "dft_actionscheduler_groups": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "dft_actionscheduler_logs": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 49152
+            },
+            "dft_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "dft_comments": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 98304
+            },
+            "dft_duplicator_packages": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "dft_gutenaforms": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "dft_gutenaforms_entries": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "dft_gutenaforms_field_value": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "dft_gutenaforms_meta": {
+                "inaccurateRows": 4,
+                "insertedRows": 7,
+                "size": 65536
+            },
+            "dft_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "dft_nextend2_image_storage": {
+                "inaccurateRows": 6,
+                "insertedRows": 12,
+                "size": 32768
+            },
+            "dft_nextend2_section_storage": {
+                "inaccurateRows": 14,
+                "insertedRows": 14,
+                "size": 114688
+            },
+            "dft_nextend2_smartslider3_generators": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "dft_nextend2_smartslider3_sliders": {
+                "inaccurateRows": 0,
+                "insertedRows": 2,
+                "size": 49152
+            },
+            "dft_nextend2_smartslider3_sliders_xref": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "dft_nextend2_smartslider3_slides": {
+                "inaccurateRows": 9,
+                "insertedRows": 9,
+                "size": 180224
+            },
+            "dft_options": {
+                "inaccurateRows": 331,
+                "insertedRows": 336,
+                "size": 8486912
+            },
+            "dft_postmeta": {
+                "inaccurateRows": 781,
+                "insertedRows": 788,
+                "size": 442368
+            },
+            "dft_posts": {
+                "inaccurateRows": 360,
+                "insertedRows": 461,
+                "size": 6635520
+            },
+            "dft_tec_events": {
+                "inaccurateRows": 12,
+                "insertedRows": 12,
+                "size": 32768
+            },
+            "dft_tec_occurrences": {
+                "inaccurateRows": 12,
+                "insertedRows": 12,
+                "size": 49152
+            },
+            "dft_termmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "dft_terms": {
+                "inaccurateRows": 9,
+                "insertedRows": 10,
+                "size": 49152
+            },
+            "dft_term_relationships": {
+                "inaccurateRows": 18,
+                "insertedRows": 21,
+                "size": 32768
+            },
+            "dft_term_taxonomy": {
+                "inaccurateRows": 9,
+                "insertedRows": 10,
+                "size": 49152
+            },
+            "dft_usermeta": {
+                "inaccurateRows": 29,
+                "insertedRows": 55,
+                "size": 49152
+            },
+            "dft_users": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 65536
+            }
+        },
+        "lowerCaseTableNames": 0,
+        "dbEngine": "MySQL",
+        "version": "5.7.44",
+        "versionComment": "MySQL Community Server - (GPL)",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 1,
+        "packageName": "20240806_jcubrisbanestudentboard",
+        "packageHash": "ce4e470-06082354",
+        "secondaryHash": "46f9e09-06082354"
+    },
+    "fileInfo": {
+        "dirCount": 2552,
+        "fileCount": 11170,
+        "size": 73764842
+    },
+    "wpInfo": {
+        "version": "6.6.1",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs",
+        "targetPaths": [
+            "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs"
+        ],
+        "adminUsers": [
+            {
+                "ID": "2",
+                "user_login": "bnivqmkj-ca",
+                "id": "2"
+            },
+            {
+                "ID": "1",
+                "user_login": "cms.class.jcu24",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "iE,bex02J v`[.,Y4odaev=X`Gs_1:P&zG0fk4DZfpS1C)MTiTgmZv<*bAOZ Mc=",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "&l1sk1!s01R]E3SefP2eLB$d=V*H\/Lr) sLqA=awlRIdHShh;P]9y2O=N;?]PzP`",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "~J3kgpUrg9r*N+*Kny%g}bq?7=22S1`9*6$Ut0tAQ*k2qJ(ZW(z<Z%m;M(Yq0R|g",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "j1L?gI}hd-Pl8MG?j,DFjEvf56f~)1`5Y7hE2g.[=E~H,[n*2wOIR< dX:_&\/kB[",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "ETOXrE|dMF*_dVt.3xM{X5gtN,]$qHkbw;q=f5.XN_b Ka[vufzcBF|d.*o{=:~9",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "qU?R&kaGM#W 8Y=l8TMoPOfu-@}=qq|u$DwZl=8b@7KEx[1:^l{`y;@liWH 0=!4",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "J{bc[_agcKlU*L*T~819t}HPQ).2\/;v0>s[Y]H!qm6Kay?*Z(fdw)S-Cl#&=4J=C",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "WOWW=Yz*6f&F]6)a5lKEn>)u9gVBAN1*%&-YSSS}>3wKoz4YCXq[uz^^Rx[69_ 4",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/jcu-student-board.cloudaccess.host\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/jcu-student-board.cloudaccess.host\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": "",
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "512M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content\/themes\/twentytwentyfour",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content\/themes\/twentytwentyfour",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/jcu-student-board.cloudaccess.host\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/jcu-student-board.cloudaccess.host",
+                "homeUrl": "https:\/\/jcu-student-board.cloudaccess.host",
+                "loginUrl": "https:\/\/jcu-student-board.cloudaccess.host\/wp-login.php",
+                "contentUrl": "https:\/\/jcu-student-board.cloudaccess.host\/wp-content",
+                "uploadBaseUrl": "https:\/\/jcu-student-board.cloudaccess.host\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/jcu-student-board.cloudaccess.host\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/jcu-student-board.cloudaccess.host\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/jcu-student-board.cloudaccess.host\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs",
+                    "abs": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs",
+                    "wpconfig": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs",
+                    "wpcontent": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content",
+                    "uploads": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content\/uploads",
+                    "plugins": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content\/plugins",
+                    "muplugins": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content\/mu-plugins",
+                    "themes": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs",
+                    "abs": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs",
+                    "wpconfig": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs",
+                    "wpcontent": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content",
+                    "uploads": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content\/uploads",
+                    "plugins": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content\/plugins",
+                    "muplugins": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content\/mu-plugins",
+                    "themes": "\/mnt\/data\/vhosts\/casite-1488122.cloudaccess.net\/httpdocs\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "akismet\/akismet.php": {
+                "slug": "akismet\/akismet.php",
+                "name": "Akismet Anti-spam: Spam Protection",
+                "version": "5.3.2",
+                "pluginURI": "https:\/\/akismet.com\/",
+                "author": "Automattic - Anti-spam Team",
+                "authorURI": "https:\/\/automattic.com\/wordpress-plugins\/",
+                "description": "Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam<\/strong>. Akismet Anti-spam keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key.",
+                "title": "Akismet Anti-spam: Spam Protection",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ca-autologin\/ca-autologin.php": {
+                "slug": "ca-autologin\/ca-autologin.php",
+                "name": "Auto Login",
+                "version": "1.0",
+                "pluginURI": "",
+                "author": "<a href='http:\/\/www.cloudaccess.net\/' target='_blank'>CloudAccess.net<\/a>",
+                "authorURI": "",
+                "description": "This plugin is installed by CloudAccess.net in each WordPress site that is provisioned on the company's platform. It exists so that you can have one-click WordPress Dashboard access directly through your Cloud Control Panel (CCP). <a href='http:\/\/www.cloudaccess.net\/products\/cloud-control-panel.html' target='_blank'>Learn more about the CCP.<\/a>",
+                "title": "Auto Login",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.10.2",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "event-tickets\/event-tickets.php": {
+                "slug": "event-tickets\/event-tickets.php",
+                "name": "Event Tickets",
+                "version": "5.13.0.3",
+                "pluginURI": "https:\/\/evnt.is\/1acb",
+                "author": "The Events Calendar",
+                "authorURI": "https:\/\/evnt.is\/1aor",
+                "description": "Event Tickets allows you to sell basic tickets and collect RSVPs from any post, page, or event.",
+                "title": "Event Tickets",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "gutena-forms\/gutena-forms.php": {
+                "slug": "gutena-forms\/gutena-forms.php",
+                "name": "Gutena Forms - Contact Forms Block",
+                "version": "1.2.3",
+                "pluginURI": "",
+                "author": "ExpressTech",
+                "authorURI": "https:\/\/expresstech.io",
+                "description": "Gutena Forms is the easiest way to create forms inside the WordPress block editor. Our plugin does not use jQuery and is lightweight, so you can rest assured that it won\u2019t slow down your website. Instead, it allows you to quickly and easily create custom forms right inside the block editor.",
+                "title": "Gutena Forms - Contact Forms Block",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "hello.php": {
+                "slug": "hello.php",
+                "name": "Hello Dolly",
+                "version": "1.7.2",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/hello-dolly\/",
+                "author": "Matt Mullenweg",
+                "authorURI": "http:\/\/ma.tt\/",
+                "description": "This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly<\/cite> in the upper right of your admin screen on every page.",
+                "title": "Hello Dolly",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "litespeed-cache\/litespeed-cache.php": {
+                "slug": "litespeed-cache\/litespeed-cache.php",
+                "name": "LiteSpeed Cache",
+                "version": "6.3.0.1",
+                "pluginURI": "https:\/\/www.litespeedtech.com\/products\/cache-plugins\/wordpress-acceleration",
+                "author": "LiteSpeed Technologies",
+                "authorURI": "https:\/\/www.litespeedtech.com",
+                "description": "High-performance page caching and site optimization from LiteSpeed",
+                "title": "LiteSpeed Cache",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "smart-slider-3\/smart-slider-3.php": {
+                "slug": "smart-slider-3\/smart-slider-3.php",
+                "name": "Smart Slider 3",
+                "version": "3.5.1.23",
+                "pluginURI": "https:\/\/smartslider3.com\/",
+                "author": "Nextend",
+                "authorURI": "https:\/\/smartslider3.com",
+                "description": "The perfect all-in-one responsive slider solution for WordPress.",
+                "title": "Smart Slider 3",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "the-events-calendar\/the-events-calendar.php": {
+                "slug": "the-events-calendar\/the-events-calendar.php",
+                "name": "The Events Calendar",
+                "version": "6.6.0.2",
+                "pluginURI": "",
+                "author": "The Events Calendar",
+                "authorURI": "https:\/\/evnt.is\/1x",
+                "description": "The Events Calendar is a carefully crafted, extensible plugin that lets you easily share your events. Beautiful. Solid. Awesome.",
+                "title": "The Events Calendar",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-fastest-cache\/wpFastestCache.php": {
+                "slug": "wp-fastest-cache\/wpFastestCache.php",
+                "name": "WP Fastest Cache",
+                "version": "1.2.9",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/wp-fastest-cache\/",
+                "author": "Emre Vona",
+                "authorURI": "https:\/\/www.wpfastestcache.com\/",
+                "description": "The simplest and fastest WP Cache system",
+                "title": "WP Fastest Cache",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-go-maps-block\/wp-go-maps-block.php": {
+                "slug": "wp-go-maps-block\/wp-go-maps-block.php",
+                "name": "WP Go Maps Block",
+                "version": "1.0.0",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/wp-go-maps-block",
+                "author": "WP Go Maps (formerly WP Google Maps)",
+                "authorURI": "https:\/\/www.wpgmaps.com",
+                "description": "The easiest-to-use Google Maps plugin is now available as a standalone block! Create custom Google or OpenLayers maps with high-quality markers, and easily add your map to WordPress posts or pages.",
+                "title": "WP Go Maps Block",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "twentytwentyfour": {
+                "slug": "twentytwentyfour",
+                "themeName": "Twenty Twenty-Four",
+                "version": "1.2",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyfour\/",
+                "parentTheme": false,
+                "template": "twentytwentyfour",
+                "stylesheet": "twentytwentyfour",
+                "description": "Twenty Twenty-Four is designed to be flexible, versatile and applicable to any website. Its collection of templates and patterns tailor to different needs, such as presenting a business, blogging and writing or showcasing work. A multitude of possibilities open up with just a few adjustments to color and typography. Twenty Twenty-Four comes with style variations and full page designs to help speed up the site building process, is fully compatible with the site editor, and takes advantage of new design tools introduced in WordPress 6.4.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": true
+            },
+            "twentytwentythree": {
+                "slug": "twentytwentythree",
+                "themeName": "Twenty Twenty-Three",
+                "version": "1.3",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentythree",
+                "parentTheme": false,
+                "template": "twentytwentythree",
+                "stylesheet": "twentytwentythree",
+                "description": "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentytwo": {
+                "slug": "twentytwentytwo",
+                "themeName": "Twenty Twenty-Two",
+                "version": "1.6",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentytwo\/",
+                "parentTheme": false,
+                "template": "twentytwentytwo",
+                "stylesheet": "twentytwentytwo",
+                "description": "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme\u2019s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Site Editor features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you\u2019re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "style-variations",
+                    "wide-blocks",
+                    "block-styles",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": -1,
+    "components": [
+        "package_component_db",
+        "package_component_core",
+        "package_component_plugins",
+        "package_component_themes",
+        "package_component_uploads",
+        "package_component_other"
+    ],
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "JCU Brisbane Student Board"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20240806_jcubrisbanestudentboard_ce4e47066ec8c7cb9173_20240806082354_installer-backup.php",
+    "package_name": "20240806_jcubrisbanestudentboard_ce4e47066ec8c7cb9173_20240806082354_archive.zip",
+    "package_hash": "ce4e470-06082354",
+    "package_notes": ""
+}
