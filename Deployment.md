@@ -77,7 +77,8 @@ We have given two options to choose from. These options are:
     13. Duplicator will now start importing your WordPress website. Once finished, you will see a success message with an Admin Login button.
     14. Duplicator will automatically update URLs to your new domain name. You can now click on the ‘Admin Login’ button to complete the next steps.
 
-  ** In case you experience Error 301, Do the following:**
+ **In case you experience Error 301, Do the following:**
+ 
   Edit the WordPress .htaccess file
 
 This will be located in the same directory as your wp-includes or wp-admin folder. Open the .htaccess file and paste the following lines of code at the very top:
@@ -120,7 +121,7 @@ Hurray!!!! You are good to Go.
   
 - **Site Map Tester:**
   
--** Plugins, Github Master and Documentation **: Timothy Kipkosgei
+- **Plugins, Github Master and Documentation:** Timothy Kipkosgei
 
 ---
 
