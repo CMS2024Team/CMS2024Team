@@ -17,10 +17,16 @@ To get started with the project, please refer to the detailed documentation:
 
 ## Project Structure
 
+**Contents**
+
 **─ /wp-content**
+
         ─ /plugins  - Installed plugins. e.g. WP contact forms and Duplicator used to create a local backup. 
+        
         ─ /themes   - All the themes are used on the website.
+        
         ─ /uploads  - Media uploads such as images.
+        
 **─ /wp-includes ** - Core WordPress files and libraries
 
 - wp-admin: Contains files for the WordPress admin dashboard.
