@@ -1,6 +1,6 @@
 ## Overview
 
-Welcome to the James Cook University Brisbane Students Board Site project repository! This project focuses on delivering a WordPress website for the Students Board, an initiative aimed at enhancing student engagement and resources.
+Welcome to the James Cook University Brisbane Students Board Site project repository! This project focuses on delivering a WordPress website for the Students Board, an initiative aimed at enhancing student engagement and resources. The custom WordPress theme used in this project is named "jcubCustom."
 
 ## Table of Contents
 
@@ -27,8 +27,11 @@ To get started with the project, please refer to the detailed documentation:
 - PHP
 - HTML
 - CSS
-- WP Plugins e.g Slider and WP Forms
-- 
+- WP Plugins e.g
+        - Slider
+        - WP Contact Forms
+        - Events
+        - Maps
 
 ## License
 
