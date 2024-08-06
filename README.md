@@ -17,9 +17,15 @@ To get started with the project, please refer to the detailed documentation:
 
 ## Project Structure
 
-- `src/`: Source code files.
-- `dist/`: Compiled or distributed files.
-- `docs/`: Documentation files.
+**─ /wp-content**
+        ─ /plugins  - Installed plugins. e.g. WP contact forms and Duplicator used to create a local backup. 
+        ─ /themes   - All the themes are used on the website.
+        ─ /uploads  - Media uploads such as images.
+**─ /wp-includes ** - Core WordPress files and libraries
+
+- wp-admin: Contains files for the WordPress admin dashboard.
+- wp-content: Where user-specific content is stored, including themes and plugins.
+- wp-includes: Contains core WordPress functions and classes.
 
 ## Technologies Used
 
