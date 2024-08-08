@@ -52,11 +52,11 @@ This project is licensed under the JCUB subject CMS CP5637.
 ## Acknowledgments
 
 - JCUB Students Board Development Team
-- Paul Kemboi
+- Paul Kemboi Tanui
 - Timothy Kipkosgei
 - Victor Kipkosgei Rutto
 - Zadok Kipkemoi
-- Antony
+- Antony Kibet Metto
 
 
 ## Contact
