@@ -40,7 +40,7 @@ and deployment strategies to ensure a smooth running of the site.
 
 ### Visualization of Theme and Testing
 
-- Custom theme created with PHP, JavaScript, and CSS.
+- Customized WordPress theme
 - Implement changes in a controlled manner to ensure they do not adversely affect user experience.
 - Check responsiveness, layout, and functionality across different devices and browsers.
 
@@ -50,11 +50,6 @@ and deployment strategies to ensure a smooth running of the site.
 - Create a backup and test updates on a staging site.
 - Apply updates on the live site after verification to ensure smooth functionality.
 
-### Content
-
-
-
----
 
 **Deployment Process**
 
@@ -96,36 +91,20 @@ Hurray!!!! You are good to Go.
 ### Responsibilities:
 
 - **Paul Kemboi:**
-  - Home, Events, News & Updates.
+  - back-end and front-end
 
 - **Timothy Kipkosgei:**
-  - About Us, Services, Get Involved.
+  -Plugins, Github Master and Documentation
 
 - **Victor Kipkosgei Rutto:**
-  - Contact Us, Resources.
+  - Maintaining constant communication and meeting the objectives of the website.
  
 - **Anthony Kibet Metto:**
-  - Contact Us, Resources.
+  -  Contents and testing the designs to meet user experience (UX) needs.
 
 - **Zadok Kipkemoi:**
-  - Contact Us, Resources.
+  - Contents and testing the designs to meet user experience (UX) needs.
 
-### Design Responsibilities:
-
-
-- **Site Map:** Paul
-
-### Testing Responsibilities:
-
-- **Theme Developer & Tester:** Paul Kemboi
-  
-- **Web Pages & Content Tester:**
-  
-- **Site Map Tester:**
-  
-- **Plugins, Github Master and Documentation:** Timothy Kipkosgei
-
----
 
 ## Automation
 
