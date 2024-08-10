@@ -94,7 +94,6 @@ Hurray!!!! You are good to Go.
   - back-end and front-end
 
 - **Timothy Kipkosgei:**
-  
   -Plugins, Github Master and Documentation
 
 - **Victor Kipkosgei Rutto:**
