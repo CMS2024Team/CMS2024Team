@@ -95,7 +95,7 @@ Hurray!!!! You are good to Go.
 
 - **Timothy Kipkosgei:**
   
-  -Plugins, Github Master and Documentation
+  - Plugins, Github Master and Documentation
 
 - **Victor Kipkosgei Rutto:**
   - Maintaining constant communication and meeting the objectives of the website.
